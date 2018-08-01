@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 8: August 1
+
+**Today's Progress**: Completed two projects on [freeCodeCamp](https://www.freecodecamp.org/) and worked on a WP site that needed meta fields added to a custom post type.
+
+### Day 7: July 31
+
+**Today's Progress**: Today I trained a colleague to use WP All Import Pro to maintain a WordPress site and showed her some essential HTML to improve her workflow.
+
+### Day 6: July 29
+
+**Today's Progress**: Completed Responsive Web Design Principles and CSS Flexbox on [freeCodeCamp](https://www.freecodecamp.org/)
+
+### Day 5: July 28
+
+**Today's Progress**: Completed Applied Visual Design and Applied Accessibility on [freeCodeCamp](https://www.freecodecamp.org/)
+
 ### Day 4: July 27
 
 **Today's Progress**: Started a JAMstack portfolio site with Nuxt.js. Tried to add Netlify CMS, but had issues deploying. Will need to revisit the docs before continuing with this project. Specific issues were whether the Netlify CMS files should be installed in the static or dist directory. Didn't find much discussion on forums.
